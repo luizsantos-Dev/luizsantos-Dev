@@ -2,7 +2,9 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas(ADS) na Fatec formado em ADS como materia complemetar no ensino médio . Tenho experiência em projetos acadêmicos e freelance, sempre com forte foco em **desenvolvimento Front-end e engenharia de sofware**.
 
-🎓 Atualmente curso Análise e Desenvolvimento de Sistemas na Fatec (Faculdade Pública do Estado de São Paulo) e no curso PROAProfissão. 
+## 🎓 Atualmente
+- Cursando Análise e Desenvolvimento de Sistemas na Fatec (Faculdade Pública do Estado de São Paulo) 
+- Cursando curso PROProfissão do Instituto PROA. 
 
 👨‍🎓 No momento, estou aprofundando meus conhecimentos em Javascript, React, Tailwind, Banco de dados e TypeScript.
 
@@ -21,9 +23,9 @@ Estudante de Análise e Desenvolvimento de Sistemas(ADS) na Fatec formado em ADS
 <img src="https://skillicons.dev/icons?i=html" title="Html" alt="Html" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=css" title="Css" alt="Css" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=vite" title="Css" alt="Css" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=react" title="Css" alt="Css" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=tailwind" title="Css" alt="Css" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" alt="Tailwind" width="48" height="48"/>
 
 </td>
 </tr>
@@ -32,6 +34,7 @@ Estudante de Análise e Desenvolvimento de Sistemas(ADS) na Fatec formado em ADS
 <td width="30%" align="center"><b>Backend Development</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/>
 </td>
 </tr>
@@ -44,21 +47,9 @@ Estudante de Análise e Desenvolvimento de Sistemas(ADS) na Fatec formado em ADS
 </tr>
 
 <tr>
-<td width="30%" align="center"><b>Agilidade</b></td>
-<td>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Scrum" alt="Scrum" width="48" height="48"/>
-
-
-</td>
-</tr>
-
-<tr>
 <td width="30%" align="center"><b>Tools & Productivity</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=maven" title="Maven" alt="Maven" width="48" height="48"/>
@@ -81,15 +72,15 @@ Estudante de Análise e Desenvolvimento de Sistemas(ADS) na Fatec formado em ADS
 <br> 
 
 <div align="center">
-<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=daniellramos09" alt="GitHub Streak"/>
+<img width="80%" src="https://stats.hyo.dev/api/github-stats-advanced?login=luizsantos-Dev" alt="GitHub Streak"/>
 </div>
 
 
 <div align="center">
-<img width="80%" src="https://stats.hyo.dev/api/github-trophies?login=daniellramos09" alt="GitHub Streak"/>
+<img width="80%" src="https://stats.hyo.dev/api/github-trophies?login=luizsantos-Dev" alt="GitHub Streak"/>
 </div>
 <div align="center">
-<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniellramos09&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=luizsantos-Dev&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -114,8 +105,8 @@ Estudante de Análise e Desenvolvimento de Sistemas(ADS) na Fatec formado em ADS
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:danielexpeditospr2@gmail.com)
- [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/daniel-expedito/)
+  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:luiz.santosfilho206@gmail.com)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luiz-filho-dev/)
   
 </div>
 </details>
